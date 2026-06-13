@@ -108,3 +108,23 @@ Top Runners-Up: **Clinton St & Washington Blvd and Canal St & Madison St** (posi
 * **Casual Riders**
 **#1 Station:** **DuSable Lake Shore Dr & Monroe St** (situated right at Millennium Park and the Lakefront Trail).
 Top Runners-Up: **Navy Pier and Michigan Ave & Oak St** (prime locations for out-of-town sightseeing and luxury retail).
+
+---
+
+## Phase 5: Act (Strategic Recommendations)
+
+Based on the core data discoveries from this analysis, three targeted, data-driven recommendations were delivered to Marketing Director Lily Moreno to maximize casual-to-member conversion rates:
+
+* Annual members use Cyclistic as a practical daily utility (commuting), while casual riders use it as an   experiential luxury (recreation and tourism). Therefore, marketing campaigns should not try to sell the concept of "commuting" to casual riders; instead, they must frame the annual membership as a premier pass for lifestyle, fitness, and weekend exploration.
+
+* Members value the bike network for its speed and convenience, whereas casual riders value it for time-based exploration. This means casual riders are frequently paying high, out-of-pocket, accumulating costs via single-ride or full-day passes. Our digital media strategy should focus heavily on the financial pain point: showing casual riders the mathematical proof that an annual membership will save them significant money based on their long ride times.
+
+* Casual rider activity is highly concentrated rather than spread across the city landscape. This is a massive win for Cyclistic's marketing budget. We do not need a broad, expensive, city-wide advertising campaign. Instead, Cyclistic can maximize its return on investment (ROI) by deploying a highly localized, geofenced digital media campaign targeting users at the top casual stations specifically during peak summer weekend afternoons.
+
+---
+
+## Contact & Professional Links
+Thank you for reviewing my Cyclistic Bike-Share Case Study! Feel free to connect or reach out if you have any questions regarding my methodologies or insights.
+
+* **Author Name:** Yash Tiwari
+* **Professional Email:** yashtiwarigkp@gmail.com
