@@ -39,16 +39,18 @@ SELECT member_casual,
 FROM `first-case-cyclist-bikeshare.Cyclistic_data.combined_trips_clean` 
 WHERE started_at < ended_at
 GROUP BY member_casual;
-2. Hourly Trends (Commuter vs. Leisure Patterns)
-SQL
+```
+### 2. Hourly Trends (Commuter vs. Leisure Patterns)
+```SQL
 SELECT member_casual,
        EXTRACT(HOUR FROM started_at) AS hour_of_day,
        COUNT(ride_id) AS total_rides 
 FROM `first-case-cyclist-bikeshare.Cyclistic_data.combined_trips_clean`
 GROUP BY member_casual, hour_of_day
 ORDER BY member_casual, hour_of_day;
-3. Weekly Distribution (Day of the Week)
-SQL
+```
+### 3. Weekly Distribution (Day of the Week)
+```SQL
 SELECT member_casual,
        EXTRACT(DAYOFWEEK FROM started_at) AS day_number_of_week,
        FORMAT_TIMESTAMP("%A", started_at) AS day_of_week,
@@ -56,8 +58,9 @@ SELECT member_casual,
 FROM `first-case-cyclist-bikeshare.Cyclistic_data.combined_trips_clean`
 GROUP BY member_casual, day_number_of_week, day_of_week
 ORDER BY member_casual, day_number_of_week;
-4. Top 10 Stations by User Group
-SQL
+```
+### 4. Top 10 Stations by User Group
+```SQL
 SELECT member_casual,
        start_station_name,
        COUNT(ride_id) AS number_of_rides 
@@ -67,5 +70,4 @@ GROUP BY start_station_name, member_casual
 ORDER BY member_casual, number_of_rides DESC
 LIMIT 10;
 ```
-# Hi
-hello
+## Phase 4: Share (Key Visual Insights)
