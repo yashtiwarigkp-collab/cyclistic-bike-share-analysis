@@ -71,3 +71,8 @@ ORDER BY member_casual, number_of_rides DESC
 LIMIT 10;
 ```
 ## Phase 4: Share (Key Visual Insights)
+### 1. Hourly trends (Commuter vs. Leisure Patterns)
+(hourly_trends_casual_riders_vs_annual_members.png)
+
+* **Annual members** show two massive, sharp spikes every single day: right at **8:00 AM** and again at **5:00 PM**. Outside of those hours, their activity drops significantly.
+* **Casual riders** do not have sharp morning or evening spikes. Instead, their line forms a gradual, smooth wave that slowly builds throughout the morning, peaks in the late afternoon between **2:00 PM** and **4:00 PM**, and steadily tapers off after sunset.
