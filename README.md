@@ -76,3 +76,35 @@ LIMIT 10;
 
 * **Annual members** show two massive, sharp spikes every single day: right at **8:00 AM** and again at **5:00 PM**. Outside of those hours, their activity drops significantly.
 * **Casual riders** do not have sharp morning or evening spikes. Instead, their line forms a gradual, smooth wave that slowly builds throughout the morning, peaks in the late afternoon between **2:00 PM** and **4:00 PM**, and steadily tapers off after sunset.
+
+### 2. Weekly Distribution (Workweek Stability vs. Weekend Warriors)
+![Weekly trends chart](number_of_rides_per_day_of_week_annual_members_vs_casual_riders.png)
+
+* **Annual members** maintain a steady, highly consistent riding schedule throughout the **workweek**, whereas **Casual riders** are heavily "Weekend Warriors" whose volume explodes on Saturdays and Sundays.
+* **Members** own the weekdays by a massive margin, but the **gap** completely **narrows** during the weekend due to the **massive influx** of **casual users**.
+
+### 3. Monthly Seasonality (Winter Resilience vs. Summer Surges)
+![Monthly Trends Chart](number_of_rides_per_month_annual_members_vs_casual_riders.png)
+
+* **The Summer Peak (July–October):** Both user groups hit their absolute highest volumes during these months. Warm weather and tourism drive an explosive peak for casual riders.
+* **The Permanent Member Gap:** Annual members maintain a higher volume of rides over casual riders every single month of the year.
+* **The Winter Collapse (December–February):** Casual ridership drops almost entirely to zero during freezing winter months. Member ridership dips significantly as well but continues to maintain a steady baseline of hundreds of thousands of rides.
+
+### 4. Average Trip Duration (Efficiency vs. Exploration)
+![Trip Duration Chart](Average_trip_duration_casual_riders_vs_annual_members.png)
+
+* **The Casual Leisure Cruise:** Casual riders maintain an average trip duration that is 2 times longer than annual members year-round.
+* **The Member Sprint:** Annual member trips are remarkably short and consistent, typically averaging between 10 to 13 minutes per ride.
+
+### 5. Top Starting Stations (Geographic Concentration)
+![Top Starting Stations of Annual Members](top_ten_stations_of_annual_members.png)
+
+* **Annual Members**
+**#1 Station:** **Kingsbury St & Kinzie St** (serves the Merchandise Mart and heavy corporate tech offices).
+Top Runners-Up: **Clinton St & Washington Blvd and Canal St & Madison St** (positioned directly outside Chicago's major commuter rail terminals).
+
+![Top Starting Stations of Casual Riders](top_ten_stations_of_casual_riders.png)
+
+* **Casual Riders**
+**#1 Station:** **DuSable Lake Shore Dr & Monroe St** (situated right at Millennium Park and the Lakefront Trail).
+Top Runners-Up: **Navy Pier and Michigan Ave & Oak St** (prime locations for out-of-town sightseeing and luxury retail).
