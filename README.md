@@ -68,5 +68,4 @@ ORDER BY member_casual, number_of_rides DESC
 LIMIT 10;
 ```
 # Hi
----
 hello
