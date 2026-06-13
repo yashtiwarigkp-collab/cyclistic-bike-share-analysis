@@ -1,4 +1,3 @@
-Markdown
 # Cyclistic Bike-Share Analysis: Converting Casual Riders to Annual Members
 **Google Data Analytics Capstone Project Case Study**
 
