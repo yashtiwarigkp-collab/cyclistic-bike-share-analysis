@@ -128,3 +128,4 @@ Thank you for reviewing my Cyclistic Bike-Share Case Study! Feel free to connect
 
 * **Author Name:** Yash Tiwari
 * **Professional Email:** yashtiwarigkp@gmail.com
+* **LinkedIn:** [linkedin.com/in/yash-tiwari-52601120a](https://www.linkedin.com/in/yash-tiwari-52601120a)
