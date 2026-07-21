@@ -84,7 +84,7 @@ LIMIT 10;
 * **Members** own the weekdays by a massive margin, but the **gap** completely **narrows** during the weekend due to the **massive influx** of **casual users**.
 
 ### 3. Monthly Seasonality (Winter Resilience vs. Summer Surges)
-![Monthly Trends Chart](number_of_rides_per_month_annual_members_vs_casual_riders.png)
+![Monthly Trends Chart New](number_of_rides_per_month_annual_members_vs_casual_riders.png)
 
 * **The Summer Peak (July–October):** Both user groups hit their absolute highest volumes during these months. Warm weather and tourism drive an explosive peak for casual riders.
 * **The Permanent Member Gap:** Annual members maintain a higher volume of rides over casual riders every single month of the year.
